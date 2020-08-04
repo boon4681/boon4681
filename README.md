@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+![About Me](https://boon4681.github.io/about-me.svg)
 <!--
 **boon4681/boon4681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
